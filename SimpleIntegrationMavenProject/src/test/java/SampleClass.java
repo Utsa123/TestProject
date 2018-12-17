@@ -7,6 +7,7 @@ public class SampleClass {
 	{
 		System.out.println("Testcase integrated");
 		System.out.println("Code changed");
+		System.out.println("Code changed");
 	}
 
 }
